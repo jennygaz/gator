@@ -1,2 +1,6 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/jennygaz/gator/internal/config v0.0.0-20250803025117-3133927e77db h1:x+77X0vL4hvwd6I1s7m4BfWgMsjFkrkrrPDqm6aTQG0=
 github.com/jennygaz/gator/internal/config v0.0.0-20250803025117-3133927e77db/go.mod h1:5vEaunnB5HI0nZsxdmumxEMB4+vw/VUVEhed0FNZhQI=
+github.com/lib/pq v1.10.9 h1:YXG7RB+JIjhP29X+OtkiDnYaXQwpS4JEWq7dtCCRUEw=
+github.com/lib/pq v1.10.9/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
